@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-    <img src="Capture-removebg-preview.png" alt="photo pourri" width="480" height="320">
+    <img src="ima/Capture-removebg-preview__1_-removebg-preview-removebg-preview-removebg-preview__1_-removebg-preview-removebg-preview-removebg-preview.png" alt="photo pourri" width="480" height="320">
 
   <h3 align="center">README Projet Tiens ton école</h3>
 </div>
