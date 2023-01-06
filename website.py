@@ -13,6 +13,6 @@ app.secret_key = 'key'
 @app.route("/")
 def index():
 
-    return render_template()
+    return render_template("hp.html")
 
 app.run()
