@@ -1,6 +1,9 @@
 async function data() {
   var username = localStorage.getItem("username");
   var password = localStorage.getItem("password");
+  if(password==" "){
+    window.location.href = "../index.html";
+  }
   const payload = `data={ "identifiant": "${username}", "motdepasse": "${password}", "acceptationCharte": true }`;
   const options = {
       method: "POST",
@@ -255,3 +258,24 @@ function compareArrays(array1, array2) {
   }
 }
 
+
+
+document.querySelector('#logout').addEventListener('focus', function(e) {
+  if (current) current.pause();
+  current = anime({
+    targets: 'path',
+    strokeDashoffset: {
+      value: -730,
+      duration: 700,
+      easing: 'easeOutQuart'
+    },
+    strokeDasharray: {
+      value: '530 1386',
+      duration: 700,
+      easing: 'easeOutQuart'
+    }
+  });
+});
+document.querySelector('#logout').addEventListener("click",function(e) {
+  window.location.href = "../index.html";
+})

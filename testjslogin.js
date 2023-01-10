@@ -77,3 +77,7 @@ document.querySelector('#submit').addEventListener("click",function(e) {
   })
   .catch(error => console.error(error));
 });
+function logout(){
+  localStorage.setItem("username", " ");
+  localStorage.setItem("password", " ");
+}
