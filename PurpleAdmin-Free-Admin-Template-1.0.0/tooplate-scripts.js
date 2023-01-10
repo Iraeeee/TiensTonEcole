@@ -181,7 +181,7 @@ async function getEcole(informations){
   {ecole:"IIM", option:["MATHEMATIQUES","NUMERIQUE SC.INFORM."], minclassementGlobal:15, mindiscipline:[{discipline:"ENSEIGN.SCIENTIFIQUE",rang:25},{discipline:"MATHEMATIQUES",rang:24}]},
   {ecole:"Sciences PO", option:["MATHEMATIQUES","NUMERIQUE SC.INFORM."], minclassementGlobal:10, mindiscipline:[{discipline:"ENSEIGN.SCIENTIFIQUE",rang:15},{discipline:"MATHEMATIQUES",rang:16}]},
   {ecole:"Sorbonne", option:["MATHEMATIQUES","NUMERIQUE SC.INFORM."], minclassementGlobal:10, mindiscipline:[{discipline:"ENSEIGN.SCIENTIFIQUE",rang:30},{discipline:"MATHEMATIQUES",rang:7},{discipline:"NUMERIQUE SC.INFORM.",rang:4}]},
-  {ecole:"Dauphine", option:["MATHEMATIQUES","NUMERIQUE SC.INFORM."], minclassementGlobal:8, mindiscipline:[{discipline:"ENSEIGN.SCIENTIFIQUE",rang:8},{discipline:"MATHEMATIQUES",rang:18},{discipline:"NUMERIQUE SC.INFORM.",rang:9}]},
+  {ecole:"Dauphine", option:["MATHEMATIQUES","NUMERIQUE SC.INFORM."], minclassementGlobal:8, mindiscipline:[{discipline:"ENSEIGN.SCIENTIFIQUE",rang:30},{discipline:"MATHEMATIQUES",rang:18},{discipline:"NUMERIQUE SC.INFORM.",rang:9}]},
   {ecole:"Sorbonne", option:["Literrature","Anglais"], minclassementGlobal:10, mindiscipline:[{discipline:"PHILOSOPHIE",rang:9}]},
   {ecole:"Université Paris Cité", option:["Literrature","Anglais"], minclassementGlobal:10, mindiscipline:[{discipline:"SES",rang:7}]},
   {ecole:"Dauphine", option:["Literrature","Anglais"], minclassementGlobal:10, mindiscipline:[{discipline:"SES",rang:12}]},
