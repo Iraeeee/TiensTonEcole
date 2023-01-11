@@ -10,6 +10,8 @@
     <li>
       A propos du projet
       <ul>
+          <li>Objectif</li>
+          <li>Liste d'élement dans le projet</li>
           <li>Logiciel utilisé</li>
       </ul>
     </li>
@@ -31,7 +33,7 @@
 ### Objectif 
 Créer un siteweb permettant aux lycéens de trouver une école en fonction de leurs notes.
 
-### Liste d'élement dans le projet:
+### Liste d'élement dans le projet
 * un dossier web ( contenant toutes éléments fonctionel du site web )
 * un fichier login fait en js ( contient deux fonctions qui s'occupent du login et logout )
 * un fichier en css qui permet de faire le 'front-end' du siteweb.
