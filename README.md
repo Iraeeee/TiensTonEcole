@@ -45,7 +45,7 @@ Pour réaliser ce projet nous avons utiliser Visual Studio pour coder les foncti
 ## Road Map
 
 ### Pour commencer
-
+Nous avons établit à l'oral ce que nous souhaitions faire. Puis nous avons listé toutes les fonctions et actions que nous voulions faire.
 
 ### Les étapes
 
