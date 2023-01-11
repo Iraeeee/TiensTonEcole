@@ -1,6 +1,4 @@
 <br />
-<div align="center">
-    <img src="ima/Capture-removebg-preview__1_-removebg-preview-removebg-preview-removebg-preview__1_-removebg-preview-removebg-preview-removebg-preview.png" alt="photo pourri" width="480" height="320">
 
   <h3 align="center">README Projet Tiens ton école</h3>
 </div>
@@ -31,7 +29,13 @@
 ## A propos du projet
 Nous avons créer un site web permettant de nous aider à choisir une orientation scolaire.
 
+liste d'élement dans le projet:
+* un dossier web ( contenant toutes éléments fonctionel du site web )
+* un fichier login fait en js ( contient deux fonctions qui s'occupent du login et logout )
+* un fichier en css qui permet de faire le 'front-end' du siteweb.
+
 ### Logiciel utilisé 
+Pour réaliser ce projet nous avons utiliser Visual Studio pour coder les fonctions, Github pour gérer le code et NodeJs pour développer en JavaScript.
 
 <!--Road Map -->
 ## Road Map
@@ -42,9 +46,17 @@ Nous avons créer un site web permettant de nous aider à choisir une orientatio
 ### Les étapes
 
 Dates:
+* Création et début du projet vers l'idée d'un site donnant une école en fonction de nos notes.
+* Abandon de l'idée d'utiliser flask pour utiliser JS.
+* Mise en place d'un lien avec l'API école directe pour permettre une meilleure expérience utilisateur.
+* Finalisation du 'front end' avec du css.
+
+Dates:
 
 <!--Les Actions -->
-## Les Actions 
+## Les actions
+* Vous avez la possibilité de vous connectez en utilisant vos codes école directe.
+* Vous avez la possibilité de vous dé-connecter.
 
 
 <!--Contribution -->
