@@ -27,9 +27,11 @@
 
 <!-- A propos du projet -->
 ## A propos du projet
-Nous avons créer un site web permettant de nous aider à choisir une orientation scolaire.
 
-liste d'élement dans le projet:
+### Objectif 
+Créer un siteweb permettant aux lycéens de trouver une école en fonction de leurs notes.
+
+### Liste d'élement dans le projet:
 * un dossier web ( contenant toutes éléments fonctionel du site web )
 * un fichier login fait en js ( contient deux fonctions qui s'occupent du login et logout )
 * un fichier en css qui permet de faire le 'front-end' du siteweb.
