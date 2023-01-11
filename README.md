@@ -51,8 +51,6 @@ Dates:
 * Mise en place d'un lien avec l'API école directe pour permettre une meilleure expérience utilisateur.
 * Finalisation du 'front end' avec du css.
 
-Dates:
-
 <!--Les Actions -->
 ## Les actions
 * Vous avez la possibilité de vous connectez en utilisant vos codes école directe.
