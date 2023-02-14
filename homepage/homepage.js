@@ -35,6 +35,7 @@ const options = {
 fetch('https://api.ecoledirecte.com/v3/eleves/' + id + '/notes.awp?verbe=get&', options)
 .then(response => response.json())
 .then(async (data) => {
+  console.log(data)
     n_eleve = data.data.periodes[3].ensembleMatieres.effectif
   document.getElementById("rangT1").style.display = "block";
   document.getElementById("rangT1").innerHTML = data.data.periodes[0].ensembleMatieres.rang + "/" + n_eleve;
